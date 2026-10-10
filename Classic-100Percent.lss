@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Santa Claus In Trouble (HD)</GameName>
+  <CategoryName>Classic Mode - 100%</CategoryName>
+  <LayoutPath />
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region />
+    <Variables />
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>Classic 001</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Classic 002</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Classic 003</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Classic 004</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Classic 005</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Classic 006</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Classic 007</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Classic 008</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Classic 009</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Classic 010</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
